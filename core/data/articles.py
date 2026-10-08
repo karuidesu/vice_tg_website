@@ -9,7 +9,7 @@ ARTICLES = [
     {
         "slug": "distribution-kits-scolaires-partenaire",
         "title": "Distribution de kits scolaires avec un partenaire local",
-        "date": "12 Septembre 2023",
+        "date": "12 Septembre 2025",
         "author": "Ahoefa",
         "tags": ["Éducation", "Partenariat"],
         "read_time": 3,
@@ -64,7 +64,7 @@ ARTICLES = [
     {
         "slug": "suivi-culture-laitues-bio",
         "title": "Suivi de la culture de laitues bio",
-        "date": "5 Octobre 2023",
+        "date": "5 Octobre 2026",
         "author": "Miss K.",
         "tags": ["Agroécologie", "Bio"],
         "read_time": 4,
@@ -123,7 +123,7 @@ ARTICLES = [
     {
         "slug": "convivialite-benevoles-recolte-laitues",
         "title": "Moment de convivialité avec les bénévoles",
-        "date": "8 Octobre 2023",
+        "date": "8 Octobre 2026",
         "author": "Kodjo",
         "tags": ["Vie associative", "Bénévolat"],
         "read_time": 3,
@@ -170,7 +170,7 @@ ARTICLES = [
     {
         "slug": "participation-jvf-togo-institut-francais",
         "title": "Participation au JVF Togo à l'Institut Français de Lomé",
-        "date": "20 Novembre 2023",
+        "date": "Octobre 2024",
         "author": "Reine",
         "tags": ["Événement", "Rencontre"],
         "read_time": 3,
@@ -212,7 +212,7 @@ ARTICLES = [
     {
         "slug": "visite-ujpod-volontaires-francais",
         "title": "Visite de UJPOD Togo avec des volontaires français",
-        "date": "3 Décembre 2023",
+        "date": "3 Décembre 2024",
         "author": "César",
         "tags": ["Partenariat", "Solidarité internationale"],
         "read_time": 3,
@@ -259,7 +259,7 @@ ARTICLES = [
     {
         "slug": "formation-maraichage-jeunes-filles-vacances",
         "title": "Formation en maraîchage pour les jeunes filles pendant les vacances",
-        "date": "15 Août 2023",
+        "date": "15 Août 2025",
         "author": "Eddie",
         "tags": ["Formation", "Agroécologie", "Jeunesse"],
         "read_time": 4,
@@ -310,7 +310,7 @@ ARTICLES = [
     {
         "slug": "distribution-livres-lecture-repas-mission",
         "title": "Distribution de livres de lecture et repas de mission",
-        "date": "18 Septembre 2023",
+        "date": "18 Septembre 2025",
         "author": "Célèbre",
         "tags": ["Éducation", "Bio"],
         "read_time": 3,
@@ -356,7 +356,7 @@ ARTICLES = [
     {
         "slug": "sensibilisation-importance-ecole",
         "title": "Sensibilisation à l'importance de l'école",
-        "date": "2 Octobre 2023",
+        "date": "2 Octobre 2024",
         "author": "Abigaël",
         "tags": ["Éducation", "Sensibilisation"],
         "read_time": 2,
@@ -611,7 +611,7 @@ ARTICLES = [
     {
         "slug": "suivi-culture-arachides-bio",
         "title": "Suivi de la culture d'arachides bio",
-        "date": "25 Octobre 2023",
+        "date": "25 Mars 2025",
         "author": "Jerry Dossou",
         "tags": ["Agroécologie", "Bio"],
         "read_time": 3,

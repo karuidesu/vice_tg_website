@@ -1,15 +1,10 @@
-# VICE TOGO ASSOCIATION
-
-Site vitrine de **VICE TOGO** (Vie Culture et Environnement).
-Une association dédiée au soutien scolaire des enfants démunis, à l'agriculture
-biologique et au reboisement.
-
 ## Stack
 
 - **Django**
+- **Next.js**
 - **Tailwind CSS**
-- **HTMX**
-- **JavaScript vanilla**
+
+> Parts of the code in this project (specifically the frontend) were developed with the assistance of Google Gemini.
 
 ## Prérequis
 
@@ -95,5 +90,6 @@ static/
 3. Committer vos changements
 4. Ouvrir une Pull Request
 
+## MIT License
 
-# *_ARIGATO_* 
+### *_ARIGATO_* 
